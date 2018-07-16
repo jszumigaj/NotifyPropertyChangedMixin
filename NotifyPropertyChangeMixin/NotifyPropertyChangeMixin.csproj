@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.3;net35;net40;net45;net46</TargetFrameworks>
+    <Authors>Jacek Szumigaj</Authors>
+    <Company>Aplisens S.A.</Company>
+    <Description>This package allows you to create a mixin that implements the INotifyPropertyChanged interface from an object of any class that does not implement it</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="4.3.1" />
+  </ItemGroup>
+
+</Project>
