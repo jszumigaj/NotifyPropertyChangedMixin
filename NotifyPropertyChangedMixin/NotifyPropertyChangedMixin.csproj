@@ -4,7 +4,12 @@
     <TargetFrameworks>netstandard1.3;net35;net40;net45;net46</TargetFrameworks>
     <Authors>Jacek Szumigaj</Authors>
     <Company>Aplisens S.A.</Company>
-    <Description>This package allows you to create a mixin that implements the INotifyPropertyChanged interface from an object of any class that does not implement it</Description>
+    <Description>Creates a mixin that implements the INotifyPropertyChanged interface from an object of any class with just one line of code.</Description>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/jszumigaj/NotifyPropertyChangedMixin/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jszumigaj/NotifyPropertyChangedMixin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jszumigaj/NotifyPropertyChangedMixin</RepositoryUrl>
+    <PackageTags>INotifyPropertyChanged, MVVM, Mixin, DynamicProxy</PackageTags>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
