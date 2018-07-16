@@ -64,9 +64,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NotifyPropertyChangeMixin\NotifyPropertyChangeMixin.csproj">
+    <ProjectReference Include="..\NotifyPropertyChangedMixin\NotifyPropertyChangedMixin.csproj">
       <Project>{e588839f-2cfa-4679-8e70-4e87807b4913}</Project>
-      <Name>NotifyPropertyChangeMixin</Name>
+      <Name>NotifyPropertyChangedMixin</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

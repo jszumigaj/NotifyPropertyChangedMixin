@@ -1,4 +1,4 @@
-﻿namespace NotifyPropertyChangeMixin
+﻿namespace NotifyPropertyChangedMixin
 {
     using System.ComponentModel;
     using System.Linq;

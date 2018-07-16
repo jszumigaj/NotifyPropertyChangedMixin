@@ -1,10 +1,10 @@
-﻿namespace NotifyPropertyChangeMixin.Tests
+﻿namespace NotifyPropertyChangedMixin.Tests
 {
     using System.Collections.Generic;
     using System.ComponentModel;
     using Castle.DynamicProxy;
     using FakeItEasy;
-    using NotifyPropertyChangeMixin;
+    using global::NotifyPropertyChangedMixin;
     using NUnit.Framework;
 
     [TestFixture]

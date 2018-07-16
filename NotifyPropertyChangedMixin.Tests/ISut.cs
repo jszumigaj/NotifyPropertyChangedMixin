@@ -1,4 +1,4 @@
-﻿namespace NotifyPropertyChangeMixin.Tests
+﻿namespace NotifyPropertyChangedMixin.Tests
 {
     public interface ISut //: INotifyPropertyChanged
     {
