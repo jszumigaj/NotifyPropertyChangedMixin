@@ -2,7 +2,7 @@
 
 Creates a mixin that implements the INotifyPropertyChanged interface from an object of any class with just one line of code.
 
-# Installation
+## Installation
 
 You can donwload from NuGet, [NotifyPropertyChangedMixin](https://www.nuget.org/packages/NotifyPropertyChangedMixin/).
 
